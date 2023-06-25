@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/app_1.dir/src/add.cpp.o CMakeFiles/app_1.dir/src/div.cpp.o CMakeFiles/app_1.dir/src/multi.cpp.o CMakeFiles/app_1.dir/src/sub.cpp.o CMakeFiles/app_1.dir/main.cpp.o  -o /home/shj/Desktop/cpp/cmake_learning/project_2/bin/app_1 

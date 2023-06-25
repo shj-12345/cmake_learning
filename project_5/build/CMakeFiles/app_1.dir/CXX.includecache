@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/head.h
+
+/home/shj/Desktop/cpp/cmake_learning/project_5/main.cpp
+head.h
+/home/shj/Desktop/cpp/cmake_learning/project_5/head.h
+
+/home/shj/Desktop/cpp/cmake_learning/project_5/src/add.cpp
+head.h
+/home/shj/Desktop/cpp/cmake_learning/project_5/src/head.h
+iostream
+-
+
+/home/shj/Desktop/cpp/cmake_learning/project_5/src/div.cpp
+head.h
+/home/shj/Desktop/cpp/cmake_learning/project_5/src/head.h
+iostream
+-
+
+/home/shj/Desktop/cpp/cmake_learning/project_5/src/multi.cpp
+head.h
+/home/shj/Desktop/cpp/cmake_learning/project_5/src/head.h
+iostream
+-
+
+/home/shj/Desktop/cpp/cmake_learning/project_5/src/sub.cpp
+head.h
+/home/shj/Desktop/cpp/cmake_learning/project_5/src/head.h
+iostream
+-
+

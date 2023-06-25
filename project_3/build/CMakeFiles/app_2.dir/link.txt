@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/app_2.dir/main.cpp.o  -o ../bin/app_2   -L/home/shj/Desktop/cpp/cmake_learning/project_3/lib_1  -L/home/shj/Desktop/cpp/cmake_learning/project_3/lib_2  -Wl,-rpath,/home/shj/Desktop/cpp/cmake_learning/project_3/lib_1:/home/shj/Desktop/cpp/cmake_learning/project_3/lib_2 -lcalc_1 -lcalc_2 

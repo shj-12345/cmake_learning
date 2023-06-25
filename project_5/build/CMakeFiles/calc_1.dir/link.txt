@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/shj/Desktop/cpp/cmake_learning/project_2/lib/libcalc_1.a  CMakeFiles/calc_1.dir/src/add.cpp.o CMakeFiles/calc_1.dir/src/div.cpp.o CMakeFiles/calc_1.dir/src/multi.cpp.o CMakeFiles/calc_1.dir/src/sub.cpp.o
+/usr/bin/ranlib /home/shj/Desktop/cpp/cmake_learning/project_2/lib/libcalc_1.a

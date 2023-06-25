@@ -1,0 +1,5 @@
+/home/shj/Desktop/cpp/cmake_learning/project_2/build/CMakeFiles/rebuild_cache.dir
+/home/shj/Desktop/cpp/cmake_learning/project_2/build/CMakeFiles/edit_cache.dir
+/home/shj/Desktop/cpp/cmake_learning/project_2/build/CMakeFiles/calc_2.dir
+/home/shj/Desktop/cpp/cmake_learning/project_2/build/CMakeFiles/calc_1.dir
+/home/shj/Desktop/cpp/cmake_learning/project_2/build/CMakeFiles/app.dir
